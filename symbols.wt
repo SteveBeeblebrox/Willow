@@ -1,0 +1,201 @@
+# Basics
+plus               +
+minus              -
+times,mul,cross    ×
+cdot               ·
+div                ÷
+slash              ∕
+asterisk           ∗
+circ               ∘
+divides,!ndivides  ∣; !divides,ndivides  ∤
+prop               ∝
+grad,del,nabla     ∇
+laplace,increment  ∆
+bowtie             ⋈; Bowtie,join      ⨝
+fact               !
+suchthat           :
+
+# Alternate Escapes
+mod,modulo,percent %
+dollar             $
+ampersand          &
+underscore         _
+caret              ^
+
+# Dots
+vdots ⋮
+cdots ⋯
+ddots ⋱
+udots ⋰
+ldots,ellipsis   …
+
+# Combined
+pm,plusminus       ±
+mp,minusplus       ∓
+divtimes,divmul    ⋇
+
+# Circled
+oplus                  ⊕
+ominus                 ⊖
+otimes,omul,tensorprod ⊗
+ootimes,oomul          ⨷
+oslash                 ⊘
+odiv                   ⨸
+odot                   ⊙
+ocirc                  ⊚
+oasterisk              ⊛
+oequals                ⊜
+olt                    ⧀
+ogt                    ⧁
+obar,opipe             ⦶
+obbar,oppipe           ⦷
+odash                  ⊝
+
+# Derivatives
+prime             ′
+partial           ∂
+
+# Angles, Geometry, & Trig
+angle             ∠
+degree            °
+
+# Boolean Logic
+land,wedge        ∧
+lor,vee           ∨
+lnot,neg          ¬
+lrnot,rneg        ⌐
+lxor              ⊻
+lnand             ⊼
+lnor              ⊽
+ltrue,top         ⊤
+lfalse,bot        ⊥
+
+# Grouping
+lparen    (; rparen     )
+lbrace    [; rbrace     ]
+lbracket  {; rbracket   }
+langle    ⟨; rangle      ⟩
+llangle   ⟪; rrangle    ⟫
+
+# Rounding
+lceil  ⌈; rceil  ⌉
+lfloor ⌊; rfloor ⌋
+
+# Pipes
+pipe, lpipe, rpipe, bar, lbar, rbar |
+ppipe,bbar                          ‖
+brokenpipe,brokenbar,bpipe,bbar     ¦
+pipebar, barpipe                    ⟊
+dag,dagger                          †
+ddag,ddagger                        ‡
+dddagger,dddagger                   ⹋
+
+# Dashes
+hyphen -
+endash –
+emdash —
+
+# Arrows
+leftarrow,gets                       ←; rightarrow,to                      → 
+uparrow                              ↑; downarrow                          ↓
+leftrightarrow,rightleftarrow        ↔; updownarrow,downuparrow            ↕
+upleftarrow,leftuparrow              ↖; uprightarrow,rightuparrow         ↗
+downleftarrow,leftdownarrow          ↙; downrightarrow,rightdownarrow     ↘
+
+Leftarrow,rimplies,!Nleftarrow,!nrimplies                                 ⇐; Rightarrow,implies,!Nrightarrow,!nimplies  ⇒
+Uparrow                                                                   ⇑; Downarrow                                  ⇓ 
+Leftrightarrow,Rightleftarrow,iff,!Nleftrightarrow,!Nrightleftarrow,!niff ⇔; Updownarrow,Downuparrow                    ⇕
+Upleftarrow,Leftuparrow                                                   ⇖; Uprightarrow,Rightuparrow                  ⇗
+Downleftarrow,Leftdownarrow                                               ⇙; Downrightarrow,Rightdownarrow              ⇘
+!Leftarrow,!rimplies,Nleftarrow,nrimplies                                 ⇍; !Rightarrow,!implies,Nrightarrow,nimplies  ⇏
+!Leftrightarrow,!Rightleftarrow,!iff,Nleftrightarrow,Nrightleftarrow,niff ⇎
+
+leftarrowtail                        ↢; rightarrowtail                    ↣
+
+leftarrowbase,rmapsto                ↤; rightarrowbase,mapsto             ↦
+uparrowbase                          ↥; downarrowbase                      ↧
+downuparrowbase,updownarrowbase      ↨
+
+longleftarrow ⟵; longrightarrow ⟶; longleftrightarrow ⟷
+Longleftarrow ⟸; Longrightarrow ⟹; Longleftrightarrow ⟺
+longleftarrowbase ⟻; longrightarrowbase ⟼
+
+Lleftarrow        ⇚; Rrightarrow         ⇛
+Uuparrow          ⤊; Ddownarrow          ⤋
+
+leftrightarrows ⇆; rightleftarrows  ⇄
+leftleftarrows  ⇇; rightrightarrows ⇉
+upuparrows      ⇈; downdownarrows   ⇊
+downuparrows    ⇵; updownarrows     ⇅
+
+# Relational
+tilde,sim,!ntilde,!nsim         ∼; !tilde,!sim,ntilde,nsim         ≁
+rtilde,rsim                     ∽
+approx,!napprox                 ≈; !approx,napprox                 ≉
+simeq,asymeq,!nsimeq,!nasymeq   ≃; !simeq,!asymeq,nsimeq,nasymeq   ≄
+eqsim                           ≂
+cong,!ncong                     ≅; !cong,ncong                     ≇
+approxeq                        ≊
+doteq,limeq                     ≐
+deltaeq,is                      ≜
+eq,!neq                         =; !eq,neq                         ≠
+equiv,!nequiv                   ≡; !equiv,nequiv                   ≢
+strictequiv                     ≣
+lt,!nlt                         <; !lt,nlt                         ≮
+gt,!ngt                         >; !gt,ngt                         ≯
+lteq,leq,!nlteq,!nleq           ≤; !lteq,!leq,nlteq,nleq           ≰
+gteq,geq,!ngteq,!ngeq           ≥; !gteq,!geq,ngteq,ngeq           ≱
+mlt                             ≪
+mgt                             ≫
+mmlt,vmlt                      ⋘
+mmgt,vmgt                      ⋙
+approxlt,!napproxlt            ≲; !approxlt,napproxlt             ≴
+approxgt,!napproxgt            ≳; !approxgt,napproxgt             ≵
+maybeeq                        ≟
+maybelt                        ⩻; maybegt                         ⩼
+
+# Group Theory
+wreath,wreathproduct      ≀
+ltimes,lsemidirectproduct ⋉
+rtimes,rsemidirectproduct ⋊
+btimes,bsemidirectproduct ⨲
+lthree                    ⋋
+rthree                    ⋌
+normalsubgroup,!nnormalsubgroup                      ⊲; !normalsubgroup,nnormalsubgroup                     ⋪
+normalsubgroupeq,!nnormalsubgroupeq                  ⊴; !normalsubgroupeq,nnormalsubgroupeq                 ⋬
+containsnormalsubgroup,!ncontainsnormalsubgroup      ⊳; !containsnormalsubgroup,ncontainsnormalsubgroup     ⋫
+containsnormalsubgroupeq,!ncontainsnormalsubgroupeq  ⊵; !containsnormalsubgroupeq,ncontainsnormalsubgroupeq ⋭
+
+# Sets
+null,emptyset                               ∅
+cap,intersection                            ∩
+cup,union                                   ∪
+in,!nin                                     ∈; !in,nin                                      ∉
+contains,!ncontains                         ∋; !contains,ncontains                          ∌
+setminus                                    ∖
+compliment                                  ∁
+subset,!nsubset                             ⊂; !subset,nsubset                             ⊄
+superset,supset,!nsuperset,!nsupset         ⊃; !superset,!supset,nsuperset,nsupset         ⊄
+subseteq,!nsubseteq                         ⊆; !subseteq,nsubseteq                         ⊈
+superseteq,supseteq,!nsuperseteq,!nsupseteq ⊇; !superseteq,!supseteq,nsuperseteq,nsupseteq ⊉
+
+# Quantifiers
+forall          ∀
+exists,!nexists ∃; !exists,nexists ∄
+
+# Music
+mflat  ♭
+mnat   ♮
+msharp ♯
+
+# Other
+tombstone,qed,QED,blacksquare   ∎
+therefore                       ∴
+because                         ∵
+star                            ⋆
+diamond                         ⋄
+section                         §
+pilcrow,paragraph               ¶
+copy,copyright                  ©
+copyleft                        🄯
+currency                        ¤
